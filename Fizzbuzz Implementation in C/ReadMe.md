@@ -11,3 +11,13 @@
     </ul>
   </dd>
  </dl>
+ 
+ 
+ <h2> About the Program </h2>
+ <ul>
+  <li> The program is implemented using C language using a for-loop and if-else statements. </li>
+  <li> The for-loop runs from 1 until it reaches the value of n, incrementing every iteration. </li>
+  <li> Inside the for-loop if-else statements determining if the value of i is divisible by 3, 5, or 15 using modulo. </li>
+  <li> It prints the value of i if the modulo returns 1 and FIZZBUZZ, FIZZ, or BUZZ in place of numbers that are divisible by 15, 3, or 5 respectively. </li>
+  <li> The program terminates when the value of i is equal to n. </li>
+ </ul>
